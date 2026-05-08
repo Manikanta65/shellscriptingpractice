@@ -12,6 +12,6 @@ else
 echo ""
 fi
 
-for in in {1.1.0} ; do 
+for i in {1.1.0} ; do 
 echo ""
 done
